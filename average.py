@@ -91,7 +91,7 @@ for md in month_day:
 
     print('Success...')
 
-    break
+    #break
 
 #Plotting
 def plot(averages):
